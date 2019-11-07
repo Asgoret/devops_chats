@@ -2,6 +2,8 @@
 
 Repository for information about DevOps and other friendly chats in Telegram.
 
+HELLO ANYKEY
+
 ## Repository structure
 
 ```bash
