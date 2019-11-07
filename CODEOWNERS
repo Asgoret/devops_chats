@@ -3,3 +3,10 @@
 
 # These owners will be the default owners for everything in the repo.
 *       @Asgoret
+
+# Owner of study material
+/courses/* @Asgoret
+/devops/* @Asgoret
+
+# Owners for other things
+*.md @Asgoret @vizdrag
