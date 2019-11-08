@@ -19,4 +19,3 @@ devops_chats/               #   Root directory
 ├─ Friendly_chats.md        #   List of friendly chats
 ├─ README.md                #   Readme file
 ```
-sdf
