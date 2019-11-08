@@ -18,4 +18,6 @@ devops_chats/               #   Root directory
 ├─ events.md                #   List of events
 ├─ Friendly_chats.md        #   List of friendly chats
 ├─ README.md                #   Readme file
+├─ ad.md                    #   Readme file
+├─ vacancy.md               #   Readme file
 ```
