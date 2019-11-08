@@ -1,6 +1,10 @@
 # DevOps Chats
 
 Repository for information about DevOps and other friendly chats in Telegram.
+Out main chats:
+
+* [DevOps](https://t.me/devops_ru) - chat for technical themes\treds
+* [DevOps Jobs](https://t.me/devops_jobs) - chat for themes\treds about job opportunities
 
 ## Repository structure
 
