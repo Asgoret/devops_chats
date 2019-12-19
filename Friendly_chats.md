@@ -72,6 +72,7 @@
 - [Microsoft SQL Server](https://t.me/mssql_ru)
 - [E.L.K](https://t.me/elk_ru)
 - [PWA — русскоязычное сообщество](https://t.me/pwa_ru)
+- [SRE — русскоговорящее сообщество](https://t.me/sre_ru)
 
 ## Unban chat for *ALL* chats
 - [Unban – в русскоговорящих сообществах](https://t.me/unban_ru)
