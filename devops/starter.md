@@ -1,5 +1,6 @@
 # Starter Kit
 
+## Theory
 1. [DevOps manifest](https://sites.google.com/a/jezhumble.net/devops-manifesto/)
 2. [SRE implments DevOps](https://www.youtube.com/watch?v=uTEL8Ff1Zvk&list=PLIivdWyY5sqJrKl7D2u-gmis8h9K66qoj) \ [30 минутное интервью](https://youtu.be/vB_6mrVy2RA), дополняет 1 сезон  
     _Tip:_ В данном плейлисте сотрудники Google расскажут базовые различия между SRE и DevOps, а также основные концепции и принципы построения рабочего процесса
@@ -21,3 +22,8 @@
     _Tip:_ [In progress]
 11. [The Nineteen-Factor App](https://medium.com/ibm-cloud/7-missing-factors-from-12-factor-application-2a3e1169bd9d) \ [The Twelve-Factor App](https://12factor.net/)  
     _Tip:_ Данный набор статей позволяет понять как лучше писать приложения, для того, чтобы потом их можно было легко использовать
+
+
+## Practice
+- [Test tasks](https://github.com/Asgoret/test_tasks)
+- [DevOps Questions & Exercises](https://github.com/bregman-arie/devops-exercises)
