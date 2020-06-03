@@ -22,6 +22,8 @@
     _Tip:_ [In progress]
 11. [The Nineteen-Factor App](https://medium.com/ibm-cloud/7-missing-factors-from-12-factor-application-2a3e1169bd9d) \ [The Twelve-Factor App](https://12factor.net/)  
     _Tip:_ Данный набор статей позволяет понять как лучше писать приложения, для того, чтобы потом их можно было легко использовать
+12. [DevOps vs Agile: What's the difference?](https://opensource.com/article/20/2/devops-vs-agile)
+    _Tip:_ Короткая статья описывающая основные различия между DevOps и Agile простыми словами
 
 
 ## Practice
