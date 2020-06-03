@@ -10,3 +10,4 @@ Microservices:
 - [What Team Structure is Right for DevOps to Flourish?](https://web.devopstopologies.com/)
 - [What Does a Site Reliability Engineer Do?](https://blog.scalyr.com/2019/01/site-reliability-engineer/)
 - Serverless Architectures I/III: Design and technical trade-offs([part 1](https://medium.com/@pablo.iorio/serverless-architectures-i-iii-design-and-technical-trade-offs-8ca5d637f98e) \ [part 2](https://medium.com/@pablo.iorio/serverless-architectures-ii-iii-business-benefits-eadd073c8e4d) \ [part 3](https://medium.com/@pablo.iorio/serverless-architectures-iii-market-offerings-aws-azure-google-and-alibaba-67c49d1a691d))
+- [Awesome DevSecOps RU](https://github.com/devops-ru/awesome-devsecops_ru)
