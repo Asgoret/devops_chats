@@ -30,3 +30,7 @@
 
 - [Test tasks](https://github.com/Asgoret/test_tasks)
 - [DevOps Questions & Exercises](https://github.com/bregman-arie/devops-exercises)
+
+## Success story
+
+- [Stress-Free Game Development: Powering Up Your Studio With DevOps](https://www.youtube.com/watch?v=t9HRzE7_2Xc&ab_channel=GDC)
