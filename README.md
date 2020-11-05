@@ -17,7 +17,7 @@ Our main chats:
     * [Readme file for courses](https://github.com/Asgoret/devops_chats/blob/master/courses/courses.md)
     * [DevOps](https://github.com/Asgoret/devops_chats/tree/master/courses/devops)
       * [Courses for free](https://github.com/Asgoret/devops_chats/blob/master/courses/devops/free.md)
-      * [Course for price](https://github.com/Asgoret/devops_chats/blob/master/courses/devops/price.md)
+      * [Courses for price](https://github.com/Asgoret/devops_chats/blob/master/courses/devops/price.md)
   * [Self-link to readme file](https://github.com/Asgoret/devops_chats/blob/master/README.md)
   * [Code of conduction](https://github.com/Asgoret/devops_chats/blob/master/CoC.md)
   * [Rulse for publishing events](https://github.com/Asgoret/devops_chats/blob/master/events.md)
