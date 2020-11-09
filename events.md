@@ -1,3 +1,3 @@
 # Nearby events
 
-- 30.09.2020, Online, [GET PROF IT: DevOps & Cloud](https://epa.ms/aws-azure-gcp)
+- 20.11.2020, Online, [IT nights](https://it-nights.ru/)
