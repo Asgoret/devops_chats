@@ -3,8 +3,8 @@
 Repository for information about DevOps and other friendly chats in Telegram.
 Our main chats:
 
-* [DevOps](https://t.me/devops_ru) - chat for technical themes\treds
-* [DevOps Jobs](https://t.me/devops_jobs) - chat for themes\treds about job opportunities
+* [DevOps](https://t.me/devops_ru) - chat for technical themes\threads
+* [DevOps Jobs](https://t.me/devops_jobs) - chat for themes\threads about job opportunities
 
 ## Navigation
 
@@ -16,16 +16,16 @@ Our main chats:
   * [Folder for courses](https://github.com/Asgoret/devops_chats/tree/master/courses)
     * [Readme file for courses](https://github.com/Asgoret/devops_chats/blob/master/courses/courses.md)
     * [DevOps](https://github.com/Asgoret/devops_chats/tree/master/courses/devops)
-      * [Courses for free](https://github.com/Asgoret/devops_chats/blob/master/courses/devops/free.md)
-      * [Courses for price](https://github.com/Asgoret/devops_chats/blob/master/courses/devops/price.md)
+      * [Free Courses](https://github.com/Asgoret/devops_chats/blob/master/courses/devops/free.md)
+      * [Payed Courses](https://github.com/Asgoret/devops_chats/blob/master/courses/devops/price.md)
   * [Self-link to readme file](https://github.com/Asgoret/devops_chats/blob/master/README.md)
   * [Code of conduction](https://github.com/Asgoret/devops_chats/blob/master/CoC.md)
-  * [Rulse for publishing events](https://github.com/Asgoret/devops_chats/blob/master/events.md)
-  * [Rules for publeshing advertising](https://github.com/Asgoret/devops_chats/blob/master/ad.md)
-  * [Rules for publeshing job opportunities and CV](https://github.com/Asgoret/devops_chats/blob/master/vacancy.md)
-  * [Manual for HRs for helping them find and hire people](https://github.com/Asgoret/devops_chats/blob/master/hrman.md)
+  * [Rules for publishing events](https://github.com/Asgoret/devops_chats/blob/master/events.md)
+  * [Rules for publishing advertising](https://github.com/Asgoret/devops_chats/blob/master/ad.md)
+  * [Rules for publishing job opportunities and CVs](https://github.com/Asgoret/devops_chats/blob/master/vacancy.md)
+  * [Manual for HRs to help them find and hire people](https://github.com/Asgoret/devops_chats/blob/master/hrman.md)
   * [List of friendly chats](https://github.com/Asgoret/devops_chats/blob/master/Friendly_chats.md)
-  * [List of relocate chats in telegram](https://github.com/Asgoret/devops_chats/blob/master/relocate.md)
+  * [List of telegram chats on relocation](https://github.com/Asgoret/devops_chats/blob/master/relocate.md)
 
 ## Repository structure
 
