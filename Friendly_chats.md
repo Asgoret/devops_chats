@@ -10,6 +10,7 @@
 - [Mobile Jobs](https://t.me/mobile_jobs)
 - [QA Jobs](https://t.me/qa_jobs)
 - [VueJS Jobs](https://t.me/vuejs_jobs)
+- [CyberJobsRussia](https://t.me/CyberJobsRussia)
 
 ## Feeds about job opportunities
 
@@ -23,6 +24,7 @@
 - [UIUX Jobs Feed](http://t.me/uiux_jobs_feed)
 - [Agile Jobs Feed](http://t.me/agile_jobs_feed)
 - [VueJS Jobs Feed](https://t.me/vuejs_jobs_feed)
+- [RuSecJobs Channel](https://t.me/RuSecJobs)
 
 ## Technical chats
 
@@ -75,5 +77,10 @@
 - [SRE — русскоговорящее сообщество](https://t.me/sre_ru)
 - [Go-go!](https://t.me/gogolang)
 
+### Flood chats
+
+- [CyberOff](https://t.me/cyberoffru)
+
 ## Unban chat for *ALL* chats
+
 - [Unban – в русскоговорящих сообществах](https://t.me/unban_ru)
