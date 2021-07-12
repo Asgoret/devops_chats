@@ -24,6 +24,7 @@
 - [UIUX Jobs Feed](http://t.me/uiux_jobs_feed)
 - [Agile Jobs Feed](http://t.me/agile_jobs_feed)
 - [VueJS Jobs Feed](https://t.me/vuejs_jobs_feed)
+- [AppSec & DevSecOps Jobs](https://t.me/appsec_job)
 - [RuSecJobs Channel](https://t.me/RuSecJobs)
 
 ## Technical chats
@@ -76,6 +77,7 @@
 - [PWA — русскоязычное сообщество](https://t.me/pwa_ru)
 - [SRE — русскоговорящее сообщество](https://t.me/sre_ru)
 - [Go-go!](https://t.me/gogolang)
+- [DevSecOps Chat](https://t.me/sec_devops_chat)
 
 ### Flood chats
 
