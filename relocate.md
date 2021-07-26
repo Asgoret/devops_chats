@@ -4,4 +4,3 @@
 - [Nerdsbay](https://t.me/nerdsbay)
 - [The Netherlands Nerdsbay](https://t.me/nlnerdsbay)
 - [Israel Jobs - вакансии и резюмe](https://t.me/israjobs)
-- [Погромисты-трактористы :: карьерный самосвал](https://t.me/pogromisty)
