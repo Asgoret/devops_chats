@@ -5,3 +5,4 @@
 - [Hashicorp Learn](https://learn.hashicorp.com/)
 - [Site Reliability Engineering: Measuring and Managing Reliability](https://ru.coursera.org/learn/site-reliability-engineering-slos)
 - [Kubernetes academy](https://kubernetes.academy/)
+- [Oracle Cloud Infrastructure (OCI)](https://education.oracle.com/learn/oracle-cloud-infrastructure/pPillar_640)
