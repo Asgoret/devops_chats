@@ -57,6 +57,7 @@
 - [Visual Studio Code](https://t.me/vscode_ru)
 - [UI/UX](https://t.me/uiux_ru)
 - [DevOps](https://t.me/devops_ru)
+- [CatOps](https://t.me/catops_chat)
 - [Projects](https://t.me/projects_ru)
 - [Agile](https://t.me/agile_ru)
 - [Android Developers](https://t.me/android_ru)
