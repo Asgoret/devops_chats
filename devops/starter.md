@@ -16,7 +16,7 @@
 7. [Kubernetes best practice](https://www.youtube.com/watch?v=wGz_cbtCiEA&list=PLIivdWyY5sqL3xfXz5xJvwzFW_tlQB_GB) (актуально для любой разработки в контейнерах)
     _Tip:_ небольшой плейлист по мировым практикам работы с контейнерами на примере Kubernetes и GCP
 8. [Designing Distributed Systems](http://shop.oreilly.com/product/0636920072768.do)  
-    _Tip:_ Данная книга расскажет про паттерны построения расрпделенной системы. Достаточно абстрактно, чтобы можно было применить к большому количеству кейсов с определенными купюрами
+    _Tip:_ Данная книга расскажет про паттерны построения распределенной системы. Достаточно абстрактно, чтобы можно было применить к большому количеству кейсов с определенными купюрами
 9. [Building Evolutionary Architectures](https://www.oreilly.com/library/view/building-evolutionary-architectures/9781491986356/)  
     _Tip:_ [In progress]
 10. [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002)  
