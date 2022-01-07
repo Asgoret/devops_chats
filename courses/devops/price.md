@@ -1,7 +1,7 @@
 # Courses for money
 
 - [Slurm.io](https://slurm.io/) Promocode: `devops_ru`
-- [Certified Kubernetes Administrator bu LF](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/) Sale days: `Black Friday`/`Cyber Monday`
+- [Certified Kubernetes Administrator by LF](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/) Sale days: `Black Friday`/`Cyber Monday`
 - [Master's Degrees](https://www.edx.org/masters?utm_source=sailthru&utm_medium=email&utm_campaign=masters_launch)
 - [Bachelor of Computer Science](https://www.coursera.org/degrees/bachelor-of-science-computer-science-london)
 - [Red Hat Cetifications (RHCSA and RHCE)](https://www.udemy.com/red-hat-cetifications-rhcsa-rhce-combined-exam-prep/learn/lecture/12246906?start=0#overview)
