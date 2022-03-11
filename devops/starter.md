@@ -19,7 +19,7 @@
     _Tip:_ Данная книга расскажет про паттерны построения распределённой системы. Достаточно абстрактно, чтобы можно было применить к большому количеству кейсов с определёнными купюрами
 9. [Building Evolutionary Architectures](https://www.oreilly.com/library/view/building-evolutionary-architectures/9781491986356/)  
     _Tip:_ [In progress]
-10. [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002)  
+10. [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations-dp-1950508404/dp/1950508404)  
     _Tip:_ [In progress]
 11. [The Nineteen-Factor App](https://medium.com/ibm-cloud/7-missing-factors-from-12-factor-application-2a3e1169bd9d) \ [The Twelve-Factor App](https://12factor.net/)  
     _Tip:_ Данный набор статей позволяет понять как лучше писать приложения, для того, чтобы потом их можно было легко использовать
