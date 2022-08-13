@@ -79,6 +79,7 @@
 - [SRE — русскоговорящее сообщество](https://t.me/sre_ru)
 - [Go-go!](https://t.me/gogolang)
 - [DevSecOps Chat](https://t.me/sec_devops_chat)
+- [Godot Engine — русскоязычное сообщество](https://t.me/godot_ru)
 
 ### Flood chats
 
