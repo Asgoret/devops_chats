@@ -81,6 +81,7 @@
 - [DevSecOps Chat](https://t.me/sec_devops_chat)
 - [Godot Engine — русскоязычное сообщество](https://t.me/godot_ru)
 - [Azure Devops/TFS RU Chat](https://t.me/azuredevops_ru)
+- [Rocky Linux RU](https://t.me/rockylinuxru)
 
 ### Flood chats
 
